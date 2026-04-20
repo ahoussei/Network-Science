@@ -1,0 +1,38 @@
+Brand,Parent,Country,Luxury
+Acura,Honda Motor Company,Japan,Yes
+Alfa Romeo,Stellantis,Italy,Yes
+Audi,Volkswagen Group,Germany,Yes
+BMW,BMW Group,Germany,Yes
+Bentley,Volkswagen Group,UK,Yes
+Bugatti,Volkswagen Group,France,Yes
+Buick,General Motors,US,No
+Cadillac,General Motors,US,Yes
+Chevrolet,General Motors,US,No
+Chrysler,Stellantis,US,No
+Dodge,Stellantis,US,No
+Fiat,Stellantis,Italy,No
+Ford,Ford Motor Company,US,No
+GMC,General Motors,US,No
+Genesis,Hyundai Motor Group,South Korea,Yes
+Honda,Honda Motor Company,Japan,No
+Hyundai,Hyundai Motor Group,South Korea,No
+Jaguar,Tata Motors,UK,Yes
+Infiniti,Nissan Motor Company,Japan,Yes
+Jeep,Stellantis,US,No
+Kia,Hyundai Motor Group,South Korea,No
+Lexus,Toyota Motor Corporation,Japan,Yes
+Lamborghini,Volkswagen Group,Italy,Yes
+Lincoln,Ford Motor Company,US,Yes
+Maserati,Stellantis,Italy,Yes
+Mazda,Mazda Motor Corporation,Japan,No
+Mercury,Ford Motor Company,US,No
+Mini,BMW Group,UK,No
+Mitsubishi,Mitsubishi Motors,Japan,No
+Nissan,Nissan Motor Company,Japan,No
+Porsche,Volkswagen Group,Germany,Yes
+RAM,Stellantis,US,No
+Range Rover,Tata Motors,UK,Yes
+Rolls-Royce,BMW Group,UK,Yes
+Subaru,Subaru Corporation,Japan,No
+Tesla,Tesla Inc,US,Yes
+Volkswagen,Volkswagen Group,Germany,No
